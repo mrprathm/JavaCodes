@@ -2,9 +2,9 @@ public class First{
 
 public static void main(String args[]){
 
-System.out.println("Hello");
-System.out.println("Git leacture");
-  System.out.println("New Line Update");
+int a = 10;
+int b = 20;
+ System.out.println(a+b);
 
 
 }
